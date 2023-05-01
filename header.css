@@ -1,0 +1,21 @@
+.nav-link{
+
+    margin-left: 300px;
+    padding-left: 400px;
+    cursor: pointer;
+    font-size: 40px;
+
+}
+.nav-link:hover{
+    background-color: rgb(70, 64, 64);
+
+
+}   
+
+.nav-link{
+    text-align: right;
+}
+
+.navbar-nav{
+    margin-right:10px;
+}
